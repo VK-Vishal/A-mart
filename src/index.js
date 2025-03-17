@@ -6,9 +6,10 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/A-mart"> {/* Add basename for GitHub Pages */}
       <App />
     </BrowserRouter>
   </React.StrictMode>
