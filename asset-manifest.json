@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VK-Vishal/A-mart.git/static/css/main.754ebb54.css",
-    "main.js": "/VK-Vishal/A-mart.git/static/js/main.3f1a2af6.js",
+    "main.js": "/VK-Vishal/A-mart.git/static/js/main.4c3db5df.js",
     "static/js/453.05496ba0.chunk.js": "/VK-Vishal/A-mart.git/static/js/453.05496ba0.chunk.js",
     "static/media/coir.jpg": "/VK-Vishal/A-mart.git/static/media/coir.2c0dc6e4aeab77417104.jpg",
     "static/media/logowb.png": "/VK-Vishal/A-mart.git/static/media/logowb.18031d3a443aca29106a.png",
@@ -38,11 +38,11 @@
     "static/media/rose.jpeg": "/VK-Vishal/A-mart.git/static/media/rose.924ae7a921240391d070.jpeg",
     "index.html": "/VK-Vishal/A-mart.git/index.html",
     "main.754ebb54.css.map": "/VK-Vishal/A-mart.git/static/css/main.754ebb54.css.map",
-    "main.3f1a2af6.js.map": "/VK-Vishal/A-mart.git/static/js/main.3f1a2af6.js.map",
+    "main.4c3db5df.js.map": "/VK-Vishal/A-mart.git/static/js/main.4c3db5df.js.map",
     "453.05496ba0.chunk.js.map": "/VK-Vishal/A-mart.git/static/js/453.05496ba0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.754ebb54.css",
-    "static/js/main.3f1a2af6.js"
+    "static/js/main.4c3db5df.js"
   ]
 }
