@@ -52,7 +52,7 @@ export default function Flowers() {
                 src={flower.image} 
                 className="card-img-top" 
                 alt={flower.name} 
-                style={{ height: "200px", width: "100%", objectFit: "cover" }}
+                style={{ height: "300px", width: "100%", objectFit: "cover" }}
               />
               <div className="card-body">
                 <h5 className="card-title text-center">{flower.name}</h5>
